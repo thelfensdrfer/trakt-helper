@@ -1,11 +1,11 @@
+PyYAML>=3.12
+terminaltables>=3.1
+trakt>=2.7
 certifi==2017.7.27.1
 chardet==3.0.4
 idna==2.6
 oauthlib==2.0.2
-PyYAML==3.12
 requests==2.18.4
 requests-oauthlib==0.8.0
 six==1.10.0
-terminaltables==3.1.0
-trakt==2.7.2
 urllib3==1.22
