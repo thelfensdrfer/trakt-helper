@@ -48,8 +48,8 @@ if __name__ == '__main__':
         'timestamp': np.int64,
     })
 
-    user_count = ratings.userId.unique().shape[0]
-    movie_count = ratings.movieId.unique().shape[0]
+    user_count = 138493
+    movie_count = 131262
 
     train_ratings, test_ratings = cv.train_test_split(ratings, test_size=0.25)
 
