@@ -41,7 +41,7 @@ if __name__ == '__main__':
         '..',
         'data',
         'ratings.csv'
-    ), nrows=100000, dtype={
+    ), dtype={
         'userId': np.int32,
         'movieId': np.int32,
         'rating': np.float64,
