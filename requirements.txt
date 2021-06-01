@@ -15,4 +15,4 @@ six==1.10.0
 sklearn==0.0
 terminaltables==3.1.0
 trakt==2.7.2
-urllib3==1.22
+urllib3==1.26.5
